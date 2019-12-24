@@ -2,6 +2,7 @@ Red
 Blue
 Pink
 Black
+Indigo
 Orange
 
 These are the colours of the rainbow.
