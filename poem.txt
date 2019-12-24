@@ -1,8 +1,9 @@
-Sometimes I think
-to be succint
-sucking is the beginning
-of getting better at doing
-or just write bad poetry
--Better than the Vogon's I guess
+Red
+Blue
+Pink
+Black
+Orange
 
-And this is to just test branchign stuff
+These are the colours of the rainbow.
+
+And this is to just test branching stuff
