@@ -1,10 +1,11 @@
 Red
 Blue
 Pink
+Green
 Black
 Indigo
 Orange
 
-These are the colours of the rainbow.
+These are the colours of the rainbow and unicorns
 
 And this is to just test branching stuff
